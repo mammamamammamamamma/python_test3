@@ -1,0 +1,41 @@
+[ {
+  "uid" : "31764167ea61df2",
+  "name" : "test_04_notes",
+  "time" : {
+    "start" : 1683867336010,
+    "stop" : 1683867343878,
+    "duration" : 7868
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e1d23b0df8e45b0",
+  "name" : "test_02_fanyi",
+  "time" : {
+    "start" : 1683867327798,
+    "stop" : 1683867332190,
+    "duration" : 4392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f9f28d9a8e48977",
+  "name" : "test_03_long",
+  "time" : {
+    "start" : 1683867332192,
+    "stop" : 1683867336008,
+    "duration" : 3816
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a2539e1e357b4cd",
+  "name" : "test_01_popup",
+  "time" : {
+    "start" : 1683867325343,
+    "stop" : 1683867327796,
+    "duration" : 2453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

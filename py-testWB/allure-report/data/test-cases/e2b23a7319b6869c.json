@@ -1,0 +1,83 @@
+{
+  "uid" : "e2b23a7319b6869c",
+  "name" : "test_02_talk",
+  "fullName" : "testWB.TestWB#test_02_talk",
+  "historyId" : "48c42627982c953cedb3bb28e5abdd90",
+  "time" : {
+    "start" : 1683876434696,
+    "stop" : 1683876439147,
+    "duration" : 4451
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestWB",
+    "time" : {
+      "start" : 1683876418377,
+      "stop" : 1683876427172,
+      "duration" : 8795
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestWB::0",
+    "time" : {
+      "start" : 1683876466078,
+      "stop" : 1683876470246,
+      "duration" : 4168
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testWB"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestWB"
+  }, {
+    "name" : "host",
+    "value" : "XiaoXin16"
+  }, {
+    "name" : "thread",
+    "value" : "27196-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testWB"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2b23a7319b6869c.json",
+  "parameterValues" : [ ]
+}

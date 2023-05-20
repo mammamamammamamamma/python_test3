@@ -1,0 +1,83 @@
+{
+  "uid" : "616a967cba161018",
+  "name" : "test_logn",
+  "fullName" : "testWB.TestLogn#test_logn",
+  "historyId" : "3157a3037099b7a8d7679e2f81efdb3f",
+  "time" : {
+    "start" : 1683876400763,
+    "stop" : 1683876414171,
+    "duration" : 13408
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestLogn",
+    "time" : {
+      "start" : 1683876393912,
+      "stop" : 1683876400763,
+      "duration" : 6851
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestLogn::0",
+    "time" : {
+      "start" : 1683876414171,
+      "stop" : 1683876418376,
+      "duration" : 4205
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testWB"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogn"
+  }, {
+    "name" : "host",
+    "value" : "XiaoXin16"
+  }, {
+    "name" : "thread",
+    "value" : "27196-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testWB"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "616a967cba161018.json",
+  "parameterValues" : [ ]
+}

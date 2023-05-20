@@ -1,0 +1,83 @@
+{
+  "uid" : "6f9f28d9a8e48977",
+  "name" : "test_03_long",
+  "fullName" : "testBaidu.TestBaidu#test_03_long",
+  "historyId" : "f737710f1f7a0361f91c2351ac6e0d02",
+  "time" : {
+    "start" : 1683867332192,
+    "stop" : 1683867336008,
+    "duration" : 3816
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestBaidu",
+    "time" : {
+      "start" : 1683867322573,
+      "stop" : 1683867325342,
+      "duration" : 2769
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestBaidu::0",
+    "time" : {
+      "start" : 1683867343879,
+      "stop" : 1683867348054,
+      "duration" : 4175
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testBaidu"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBaidu"
+  }, {
+    "name" : "host",
+    "value" : "XiaoXin16"
+  }, {
+    "name" : "thread",
+    "value" : "15332-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testBaidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f9f28d9a8e48977.json",
+  "parameterValues" : [ ]
+}
